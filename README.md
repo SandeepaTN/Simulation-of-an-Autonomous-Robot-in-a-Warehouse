@@ -61,5 +61,3 @@ This project simulates an autonomous robot navigating through a warehouse to rea
 3. Click **Run Simulation** to start the simulation.
 4. Watch the robot navigate through the warehouse on the visualized path.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
